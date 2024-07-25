@@ -1,0 +1,31 @@
+
+h	java:S112Š"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8´„»Ú2
+j
+java:S11925"HDefine a constant instead of duplicating this literal "display" 3 times.(’’°‹ÿÿÿÿÿ8¶„»Ú2
+m
+java:S1192B"KDefine a constant instead of duplicating this literal " on Floor " 3 times.(²éŠ­ÿÿÿÿÿ8¶„»Ú2
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(Çµí‘8†»Ú2
+[
+java:S1854W"?Remove this useless assignment to local variable "vehicleType".(“°ê%8†»Ú2
+L	java:S106("+Replace this use of System.out by a logger.(¬èÒøşÿÿÿÿ8”†»Ú2
+L	java:S106."+Replace this use of System.out by a logger.(ËÉÈÇşÿÿÿÿ8–†»Ú2
+G	java:S1062"+Replace this use of System.out by a logger.(¬Œ´Ú8—†»Ú2
+G	java:S1064"+Replace this use of System.out by a logger.(ó¼ğî8—†»Ú2
+N
+java:S1602@",Remove useless curly braces around statement(ßöî¯ÿÿÿÿÿ8†»Ú2
+I
+java:S1602A",Remove useless curly braces around statement(¢Êû´8†»Ú2
+L	java:S106B"+Replace this use of System.out by a logger.(²éŠ­ÿÿÿÿÿ8†»Ú2
+N
+java:S1602Q",Remove useless curly braces around statement(ßöî¯ÿÿÿÿÿ8¡†»Ú2
+I
+java:S1602R",Remove useless curly braces around statement(¢Êû´8¢†»Ú2
+G	java:S106S"+Replace this use of System.out by a logger.(ì›£Û8¢†»Ú2
+L
+java:S1481W"0Remove this unused "vehicleType" local variable.(“°ê%8¢†»Ú2
+N
+java:S1602a",Remove useless curly braces around statement(€”òÓıÿÿÿÿ8¥†»Ú2
+I
+java:S1602b",Remove useless curly braces around statement(¢Êû´8¥†»Ú2
+G	java:S106c"+Replace this use of System.out by a logger.(ğ°´¿8¥†»Ú2
